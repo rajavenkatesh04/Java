@@ -1,4 +1,4 @@
-Sure! The `Scanner` class in Java is a commonly used utility for reading input from the user. It provides methods for parsing various types of input, such as strings, integers, floats, etc. Let me break down the most important methods and explain their behavior, particularly for strings, along with examples.
+The `Scanner` class in Java is a commonly used utility for reading input from the user. It provides methods for parsing various types of input, such as strings, integers, floats, etc. Let me break down the most important methods and explain their behavior, particularly for strings, along with examples.
 
 ---
 
