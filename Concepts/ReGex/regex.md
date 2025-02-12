@@ -1,6 +1,3 @@
-Here’s your content converted into Markdown format:
-
-```markdown
 # Regex Basics: Rules and Concepts
 
 ## Basic Components
