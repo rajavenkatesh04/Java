@@ -1,4 +1,4 @@
-### **What Qualifies as Intermediate-Level Java Knowledge?**
+### **What Qualifies as Intermediate-Level Java Knowledge? edit**
 
 #### **Core Java Concepts**
 1. **Object-Oriented Programming (OOP):**
