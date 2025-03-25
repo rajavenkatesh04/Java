@@ -1,5 +1,3 @@
-
-
 Java Collections! One of the most powerful and widely used features in Java. I'll cover the basics, common operations, and provide examples to help you master Java Collections.
 
 **What are Java Collections?**
